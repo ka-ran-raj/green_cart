@@ -71,4 +71,4 @@ plant-ecommerce/
 ---
 
 ## ✍️ Author  
-- Developed by Dineshkumar
+- Developed by Karan Raj
